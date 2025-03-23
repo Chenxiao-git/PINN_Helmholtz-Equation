@@ -12,3 +12,5 @@
 微分方程 $\Delta u + u = q(x,y)$ 定义在 
 区域 $\Omega = [-1,1] \times [-1,1]$ 上，
 边界条件为 $u|_{\partial\Omega} = 0$
+
+$\Delta u = \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2}$
