@@ -9,7 +9,6 @@
 
 求解以下偏微分方程系统：
 
-\begin{cases}
-\Delta u + u = q(x,y), & \text{在 } \Omega = [-1,1]\times[-1,1] \text{ 内} \\
-u|_{\partial\Omega} = 0, & \text{在边界 } \partial\Omega \text{ 上}
-\end{cases}
+微分方程 $\Delta u + u = q(x,y)$ 定义在 
+区域 $\Omega = [-1,1] \times [-1,1]$ 上，
+边界条件为 $u|_{\partial\Omega} = 0$
