@@ -9,7 +9,6 @@
 
 求解以下偏微分方程系统：
 
-```latex
 \begin{cases}
 \Delta u + u = q(x,y), & \text{在 } \Omega = [-1,1]\times[-1,1] \text{ 内} \\
 u|_{\partial\Omega} = 0, & \text{在边界 } \partial\Omega \text{ 上}
