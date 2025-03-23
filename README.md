@@ -10,9 +10,7 @@
 求解以下偏微分方程系统：
 
 微分方程 
-$$
-\Delta u + u = q(x,y)
-$$ 
+$\Delta u + u = q(x,y)$
 定义在 区域 $\Omega = [-1,1] \times [-1,1]$ 上，
 边界条件为 $u|_{\partial\Omega} = 0$
 
